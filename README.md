@@ -1,8 +1,28 @@
 # 基于github action的京东自动化签到 11
 
-## 介绍121212121212121212121212121212121213232132132321321312
+## 介绍
 
-> 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
+> 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。1221321321321321312323213213213
+
+321321321321321321321321312
+
+213
+21
+312
+3
+213
+213
+12
+321
+3
+213
+21
+3
+213
+123
+21
+321
+321
 
 
 ## 触发方式
@@ -28,13 +48,13 @@
 
 ## 获取Server酱SCKEY
 
-* github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网
+* github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网fdfdfdfdfd
 * 在`发送消息`拷贝SCKEY
 
 
 
 ## 效果截图
-
+d
 ![WechatIMG3](./images/WechatIMG3.jpeg)
 
 ![WechatIMG4](./images/WechatIMG4.jpeg)
@@ -43,4 +63,4 @@
 ## 参考项目
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
-* [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
+* [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)dfdfdsfdsfdf
